@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Semi+Expanded:wght@400;600&display=swap');
+
+body {
+    margin-left: 50px;
+    margin-right: 600px;
+    background-color: #e8e9e9;
+    font-family: 'Encode Sans Semi Expanded', sans-serif;
+    font-style: normal;
+}
+
+h1{
+    color: #fd5755;
+}
+
+.grijs{
+    color: gray;
+}
+
+p{
+    color: gray;
+}
+
+a{
+    background-color: #fd5755;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
